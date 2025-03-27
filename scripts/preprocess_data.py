@@ -2,8 +2,8 @@ import pandas as pd
 import os
 
 # Putanje fajlova
-input_path = "data/raw/GeneratedLabelledFlows/TrafficLabelling/Monday-WorkingHours.pcap_ISCX.csv"
-output_path = "data/processed/Monday-WorkingHours-cleaned.csv"
+input_path = "data/raw/cic-ids-2017/MachineLearningCVE/Monday-WorkingHours.pcap_ISCX.csv"
+output_path = "data/processed/MachineLearning-Monday-cleaned.csv"
 
 # Učitavanje CSV fajla
 print("Učitavanje CSV fajla...")
