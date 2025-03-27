@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Putanja do odabranog fajla (Monday-WorkingHours.csv)
-file_path = "data/raw/cic-ids-2017/MachineLearningCVE/Monday-WorkingHours.pcap_ISCX.csv"
+file_path = "data/raw/unsw-nb15/UNSW-NB15 dataset/CSV Files/Training and Testing Sets/UNSW_NB15_training-set.csv"
 
 # Učitavanje podataka iz fajla
 print("Učitavanje podataka...")
